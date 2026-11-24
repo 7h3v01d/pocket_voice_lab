@@ -1,0 +1,4 @@
+pocket-tts 
+PyQt6 
+sounddevice 
+numpy
